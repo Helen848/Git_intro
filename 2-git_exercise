@@ -1,0 +1,15 @@
+Project 3:
+ 
+  Answers:
+ 1. A command used to configure git with Email:
+          git config --global user.email example123@gmail.com
+ 2. A command to initialize the git:
+          git init
+ 3. A command used to see the modified commits
+          git log
+ 4. A command used to put a file or directory to index
+          git add                              
+ 5. A command used to commit files or folders in the staging ares
+          git add [filename]
+ 6. A command used to put files to our repository:
+          git push -u origin main 
